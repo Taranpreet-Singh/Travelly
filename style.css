@@ -95,7 +95,7 @@ footer{
 
 #hero{
     min-height: 90.2vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.7), transparent), url("/img/landing-page.jpg");
+    background: linear-gradient(rgba(0, 0, 0, 0.7), transparent), url("/Travelly/img/landing-page.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
